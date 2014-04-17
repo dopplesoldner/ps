@@ -1,0 +1,41 @@
+<div class="container-fluid" ng-hide="noResults">
+  <div class="col-xs-6 col-md-10 col-md-offset-1">
+    <div class="jumbotron">
+      <h4>No results found.</h4>
+    </div>
+  </div>
+</div>
+
+<div class="container-fluid" ng-hide="wait">
+  <div id="result_div" class="col-xs-12 col-sm-6 col-md-8 col-md-offset-2">
+    <div google-chart chart="sentimentChart"></div>
+    <table ng-table="tableParams" class="table table-striped">
+      <tbody ng-repeat="group in $groups">
+        <tr class="ng-table-group">
+          <td colspan="{{$columns.length}}">
+            <a href="" ng-click="group.$hideRows = !group.$hideRows">
+              <span class="glyphicon" ng-class="{ 'glyphicon-chevron-right': !group.$hideRows, 'glyphicon-chevron-down': group.$hideRows }"></span>
+              <strong>{{ group.value }}</strong>
+            </a>
+          </td>
+        </tr>
+        <tr ng-hide="!group.$hideRows" ng-repeat="record in group.data">
+          <td data-title="'Text'">
+		  <font face="arial" size="1"><a ng-href="{{record.url}}" target="_blank">{{record.source}}</a></font><br>
+		  <font face="arial">{{record.text}}</font><br>
+		  <font face="arial" size="1" color="green">{{record.url.substring(0,75)+"..."}}</a></font>
+          </td>
+           <td data-title="'Tags'">
+            {{record.tags}}
+          </td>
+          <td data-title="'Sentiment'">
+            {{record.sentiment}}
+          </td>
+          <!--<td data-title="'Source'">
+            <a ng-href="{{record.url}}" target="_blank">{{record.source}}</a>
+          </td>-->
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

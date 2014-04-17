@@ -1,0 +1,1553 @@
+{
+  "average": [
+    {
+      "entity": "device",
+      "sentiment": 6.76,
+      "count": 71.0
+    },
+    {
+      "entity": "camera",
+      "sentiment": 6.48,
+      "count": 31.0
+    },
+    {
+      "entity": "design",
+      "sentiment": 7.44,
+      "count": 9.0
+    },
+    {
+      "entity": "display",
+      "sentiment": 6.41,
+      "count": 24.0
+    },
+    {
+      "entity": "memory",
+      "sentiment": 5.83,
+      "count": 6.0
+    },
+    {
+      "entity": "size",
+      "sentiment": 6.17,
+      "count": 6.0
+    },
+    {
+      "entity": "apps",
+      "sentiment": 6.53,
+      "count": 19.0
+    },
+    {
+      "entity": "cost",
+      "sentiment": 4.6,
+      "count": 5.0
+    },
+    {
+      "entity": "sound",
+      "sentiment": 7.0,
+      "count": 5.0
+    },
+    {
+      "entity": "battery",
+      "sentiment": 6.26,
+      "count": 16.0
+    },
+    {
+      "entity": "weight",
+      "sentiment": 5.0,
+      "count": 8.0
+    },
+    {
+      "entity": "wifi",
+      "sentiment": 6.8,
+      "count": 5.0
+    },
+    {
+      "entity": "processor",
+      "sentiment": 6.25,
+      "count": 4.0
+    },
+    {
+      "entity": "signal",
+      "sentiment": 7.5,
+      "count": 2.0
+    }
+  ],
+  "detail": [
+    {
+      "text": "wonderful phone.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "truly unlocked worked in brazil amazing phone.",
+      "namedEntity": "device",
+      "otherEntity": "location:brazil",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "due for an upgrade it is a really nice device",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "iphone 5s is great smart phoneiphone 5s device has many advantages",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i got a clear case for the phone that just adds to the appearance.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the phone works perfectly &128525;&128525;&10084;&65039;9 the seller is : tech tycoon &10084;&65039;&10084;&65039;",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "so overall it is a good phone",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "there were definitely features that were better than the 4s",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "great phone",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "in a really good condition simply the best phone you can get today in a fabulous maintenence",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "im happy with it",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "although the perfect phone",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it never lags",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it really makes the phone look fresh  sorry that is the best word i can find to describe it.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 10.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "never had problems there so i have a hard time imagining it is my voice.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 5.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i am so upset because i wanted the phone badly",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 2.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it would be nice if they made it a bit thicker",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "professional phone.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it wasnt.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "way to easy to break i have only had my phone two weeks",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "recommend: a good choice as a contract upgrade; too pricey for a top line off contract device.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "on handset",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "apple is the clear winner with regards to the features",
+      "namedEntity": "device",
+      "otherEntity": "brand:apple",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "even though it is helpful sometimes.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "its a nice way to integrate with other apple products.",
+      "namedEntity": "device",
+      "otherEntity": "brand:apple",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i had my spouse try the phone",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "so you can optionally use it.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "features that are supposed to this great terminal.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "such a great device i will never go with any other brand",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it was advertised as unlocked",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "apple made the phone so thin",
+      "namedEntity": "device",
+      "otherEntity": "brand:apple",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "my first impression out of box was that the phone was beautiful.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "if i cant make a simple phone call in an emergency what good is anything else?",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "2013im having problems with the gps direction on my iphone so i am lowering my rating because it is driving me crazy.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 2.0,
+      "source": "CNET"
+    },
+    {
+      "text": "it is a lot different than i had expected.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it didnt work",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "when compared to the 5 it really did not feel any faster.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the phone itself is great",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "its nice to know that what it does",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "im no longer checking it every few minutes just because of the novelty of it all",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "still a very good phone.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i think this phone was pretty",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "this phone is great.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "would recommend it",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "you get a locked phone that has a at&t gsm card",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "you want a iphone 5s i recommend you to wait for it to arrive to your local carriers.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "this is a fantastic phone!",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i love this phone way better than the iphone 4.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "aaahs for its tiny packaging",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i felt it was a good marker.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "transfer all the data from your old phone.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "final thoughts  this phone is the best",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "would include combining the best features from both",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i was upgrading from the 4s which i still think is a great phone.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i need to restart phone to send messages some timesessentially",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "my son tried it",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it does work pretty well",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "speed superchargersi am very happy with this device",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "while it gets a lot of oohs",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the speed of the phone is really fast.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it does well.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "1 the iphone is unlocked2 the iphone is super amazing3 so in love with the color4 im writing this review with my gold iphone 5s5 thankkk youuuu thankkk youuu so much6 couldnt thank you enough &10084;&65039;&10084;&65039;&10084;&65039;&10084;&65039;7 i recommend this phone for everyone8 im from saudi arabia",
+      "namedEntity": "device",
+      "otherEntity": "colour:gold",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i bought a new nano sim for my phone",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "break your phone is an advantage",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i would have also like to see apple provide better tools for importing data from an older technology cell phone.",
+      "namedEntity": "device",
+      "otherEntity": "brand:apple",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "its a nice phone",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "might have had some nice features.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it flew all the way from us to egypt",
+      "namedEntity": "device",
+      "otherEntity": "location:egypt",
+      "sentiment": 2.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "there was nothing wrong with the phone.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "just to be clear the phone still has a password",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "true if you use the phone in landscape format which has the effect of widening the keypad.",
+      "namedEntity": "device",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the flash generally results in a better picture than i could get with the iphone 5.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "cons camera flash  most photos are better with the flash off.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "images were often blurry or not as sharp as i had hoped even after adjusting various settings.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 5.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "pros better camera",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "it is faster than iphone 5",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the camera is so good its up to the standard of a dedicated canon or nikon compact",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the camera is incredible  even better than my wives iphone 5.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "nice photos",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it makes excellent pictures",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "or listen to music without downloading it to my iphone 5sslo mo video option",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "5s i suspect it is an issue with ios7cons: camera flash  most photos are better with the flash off.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the touch id fingertip identity is a real inovation to make it faster than ever.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "better camera.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the video modes are so easy to switch between.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "its unlock so that i can swab providers",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the slow motion video camera is fun.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "good camera",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "video",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "pictures are sharp availability of imessage",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i have yet to experience an application crash on the 5s the camera is quick to snap shots",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the camera upgrades",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "you also cant post slow mo to instagram which is what i use video for mostly.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "videos",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "photos.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i am getting rid of our nikon compact camera because the quality is so good.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it worked here in mexico very well.",
+      "namedEntity": "camera",
+      "otherEntity": "location:mexico",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i dont think that the iphone 5 owners will find it attractive to upgrade from their phones to 5s!",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "slo mo video",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "index for both hands programmed on mine as well as the 4 digit pin the camera is definitely better in low light",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "pros: better camera  takes a better low light photo",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "it is super fast thats why the internet runs even on 3 4g very well.",
+      "namedEntity": "camera",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it also comes with the beautiful ios 7 which is the best operating system to ios devices so far",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 10.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "anyone with it really should have paid a little more",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "CNET"
+    },
+    {
+      "text": "why anyone would buy the 5c makes no sense when you can get this much better looking phone with better specs for only $100 more.",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "beautiful design.",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "other competitive phones advertise a built in grip or that it feels better to hold than an iphone",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "totally recommend it to anyone who is looking for an easy",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "looks great.",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "CNET"
+    },
+    {
+      "text": "a zero for the hardware other than the nice slim design which warrants a 1 star.",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the on screen keypad of the 5s is really well designed",
+      "namedEntity": "design",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "android seems believe that a bigger screen is better.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the screen is fantastic; big enough to be really useful.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 10.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "small screen keeps performance really strong.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "CNET"
+    },
+    {
+      "text": "only 1 gb of ram so i think apple was smart to keep the screen size down till next year.",
+      "namedEntity": "display",
+      "otherEntity": "brand:apple",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "screen are amazing!",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "they said they never heard of the cold hand touch screen response problem.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "man does that screen rock.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the retina display is beautiful.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "no other cons\nsummary if you can get by with a smaller screen you cant go wrong with this phone!",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i am not happy with the screen size.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 5.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the blackberry screen was maybe too small for most applications except for email",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "simple graphics: on the 5s",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "cons screen size is terrible.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "its even better.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i already have a crack in the screen.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "now that i am used to it",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "or screen size.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i wouldve definitely rather had more space on the 5 for the same price or waited for the 6 supposedly going to have a larger screen.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "a lot of thought has gone into the way a user can navigate around the screen through the different functions.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the display didnt change",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the bigger screen is very nice to have.",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it might struggle with a large screen",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the larger screen is also really great",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 10.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the on screen keypad of the 5s is really well designed",
+      "namedEntity": "display",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "only 1 gb of ram so i think apple was smart to keep the screen size down till next year.",
+      "namedEntity": "memory",
+      "otherEntity": "brand:apple",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "its certainly amazing how apple has managed to cram all that computing power",
+      "namedEntity": "memory",
+      "otherEntity": "brand:apple",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "with a storage capacity so huge youre never likely to need more no matter what you download",
+      "namedEntity": "memory",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i wouldve definitely rather had more space on the 5 for the same price or waited for the 6 supposedly going to have a larger screen.",
+      "namedEntity": "memory",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "1 gb ram\nsummary review\n iphone 5s 64gb  attsummary:not bad",
+      "namedEntity": "memory",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the memory 64gb is vast",
+      "namedEntity": "memory",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "only 1 gb of ram so i think apple was smart to keep the screen size down till next year.",
+      "namedEntity": "size",
+      "otherEntity": "brand:apple",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i am not happy with the screen size.",
+      "namedEntity": "size",
+      "otherEntity": "",
+      "sentiment": 5.0,
+      "source": "CNET"
+    },
+    {
+      "text": "cons screen size is terrible.",
+      "namedEntity": "size",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "or screen size.",
+      "namedEntity": "size",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "even with the length increase it still feels good in your hand.",
+      "namedEntity": "size",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "seems like a good size to me im not sold on the size of bigger phones.",
+      "namedEntity": "size",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "app crash due to low mem is a common occurrence.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i jumped from android with glitchy slow apps to a high end device.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "im also finding more useful apps for it even after having used an ipod touch",
+      "namedEntity": "apps",
+      "otherEntity": "product:ipod",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "not having to enter my password makes it much more convenient without losing security.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the software never crashes",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "some of the app interaction felt crisper  sharper.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "which it did with both my android phones frequently4.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i think it will take a few more years for others to catch up with apps so stick with iphone.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "CNET"
+    },
+    {
+      "text": "its a nice feature",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it was in good condition",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "so many apps.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i gave this a 1 for the apps",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "just added another ton of apps by just browsing through the free apps.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i wish that you could get most of the same apps as you can on google playpros:the fingerprint scanner is amazing.",
+      "namedEntity": "apps",
+      "otherEntity": "brand:google",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it was the best experience that i got on that day.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "if you dont think that youre gonna use it",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i don&8217;t like having to close various apps at least daily when they lock up crash android force close  process stopped unexpectedly errors.",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "app store has a ton of apps",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i have not had apps crash",
+      "namedEntity": "apps",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "if you can buy a iphone 5s from the istore or try to buy it unlocked from any carrier do it because here in amazon they promise you a unlocked phone for 100 more dollars than its original price",
+      "namedEntity": "cost",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "for the price i would recommend the 5s over the 5c  better long life features.",
+      "namedEntity": "cost",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "its easy to see why they have become market leader with such an excellent product.",
+      "namedEntity": "cost",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "i wouldve definitely rather had more space on the 5 for the same price or waited for the 6 supposedly going to have a larger screen.",
+      "namedEntity": "cost",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "with more ram it .",
+      "namedEntity": "cost",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the sound quality is great on speaker phone",
+      "namedEntity": "sound",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "or listen to music without downloading it to my iphone 5sslo mo video option",
+      "namedEntity": "sound",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "battery life is better except when you use the speaker phone fingerprint sensor  this much touted feature turned out to be a not.",
+      "namedEntity": "sound",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "canon dslr battery life is better except when you use the speaker phone feature.",
+      "namedEntity": "sound",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "after comparing it to the iphone 5 i would say it is better.",
+      "namedEntity": "sound",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "battery life is better than the 5 .",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "uses at least 50% charge a day without a lot of use!",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 4.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it is better than the i5.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "now i am also getting terrible battery life.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "battery life into such a tiny package",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "battery life is better except when you use the speaker phone fingerprint sensor  this much touted feature turned out to be a not.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "canon dslr battery life is better except when you use the speaker phone feature.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "battery life is awesome.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it is convenient",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "a small back up battery in my parka.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "the battery life isnt great",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "it does make it through a normal day with less than 30% left at dinner.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the battery drains quicker than my 5",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i find that the battery life is much better than id thought as first.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "doubled the battery capacity.",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "im still keeping a charger at bedside",
+      "namedEntity": "battery",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "if the speakerphone use has been heavy",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "in low light the one was better",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "light that adding a case just makes it feel better.",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "heavy for portable use.",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "in light sensitive situations including low light.",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i will need to plug it in during the afternoon.",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "CNET"
+    },
+    {
+      "text": "index for both hands programmed on mine as well as the 4 digit pin the camera is definitely better in low light",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "pros: better camera  takes a better low light photo",
+      "namedEntity": "weight",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "the wifi issue has been fixed",
+      "namedEntity": "wifi",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "love it.",
+      "namedEntity": "wifi",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "in low lightbattery life is better than the 5  wifi  i think.",
+      "namedEntity": "wifi",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "as it is on both the 5",
+      "namedEntity": "wifi",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "CNET"
+    },
+    {
+      "text": "this model hooks into my wifi much better than any other smartphone i own.",
+      "namedEntity": "wifi",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "CNET"
+    },
+    {
+      "text": "i would only recommend this if you care about how fast it is",
+      "namedEntity": "processor",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "pros:touch id is fantasticsiri understands accentssleek designhigh resolutionfaster processor makes a big differencegreat cameracons:imessage has problems",
+      "namedEntity": "processor",
+      "otherEntity": "",
+      "sentiment": 3.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "processor it literally does make it nearly as fast as a computerand a lot more too much to explainoverall",
+      "namedEntity": "processor",
+      "otherEntity": "",
+      "sentiment": 8.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "fast processor",
+      "namedEntity": "processor",
+      "otherEntity": "",
+      "sentiment": 7.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "better overall signal quality  antenna strength.",
+      "namedEntity": "signal",
+      "otherEntity": "",
+      "sentiment": 6.0,
+      "source": "Amazon"
+    },
+    {
+      "text": "phone reception is the best.",
+      "namedEntity": "signal",
+      "otherEntity": "",
+      "sentiment": 9.0,
+      "source": "Amazon"
+    }
+  ]
+}
